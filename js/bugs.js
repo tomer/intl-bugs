@@ -68,7 +68,7 @@ queries.forEach(function(q) {
 function intlBugs() {
     var open_intl = {
         resolution: "---",
-        keywords: "intl"
+        keywords: "rtl"
     };
     var query = $.extend({
         f1: "product",
